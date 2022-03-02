@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Alex\Desktop\GitHub\OOP-2022\lab2\laborator2-p2\main.cpp(15,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\GitHub\OOP-2022\lab2\laborator2-p2\main.cpp(16,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\GitHub\OOP-2022\lab2\laborator2-p2\main.cpp(18,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\GitHub\OOP-2022\lab2\laborator2-p2\main.cpp(19,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Alex\Desktop\GitHub\OOP-2022\lab2\laborator2-p2\main.cpp(20,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  laborator2-p2.vcxproj -> C:\Users\Alex\Desktop\GitHub\OOP-2022\lab2\laborator2-p2\x64\Debug\laborator2-p2.exe

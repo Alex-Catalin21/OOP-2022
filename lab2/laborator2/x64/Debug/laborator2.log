@@ -1,0 +1,5 @@
+﻿  main.cpp
+  NumberList.cpp
+  Generating Code...
+C:\Users\Alex\Desktop\GitHub\OOP-2022\lab2\laborator2\NumberList.cpp(18): warning C4715: 'NumberList::Add': not all control paths return a value
+  laborator2.vcxproj -> C:\Users\Alex\Desktop\GitHub\OOP-2022\lab2\laborator2\x64\Debug\laborator2.exe
