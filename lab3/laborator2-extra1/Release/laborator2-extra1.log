@@ -1,0 +1,11 @@
+﻿  Clase.cpp
+  opt_global.cpp
+C:\Users\Alex\Desktop\GitHub\OOP-2022\lab3\laborator2-extra1\opt_global.cpp(40,9): warning C4101: 'first': unreferenced local variable
+C:\Users\Alex\Desktop\GitHub\OOP-2022\lab3\laborator2-extra1\opt_global.cpp(40,16): warning C4101: 'second': unreferenced local variable
+  opt_local.cpp
+  Source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 115 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  laborator2-extra1.vcxproj -> C:\Users\Alex\Desktop\GitHub\OOP-2022\lab3\laborator2-extra1\Release\laborator2-extra1.exe
